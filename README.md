@@ -32,6 +32,7 @@
 7.	Compile that file with C compiler and verify the output.
 
 # PROGRAM
+```
 v#include <stdio.h>
 #include <ctype.h>
 #include <string.h>
@@ -74,6 +75,7 @@ int main() {
 
     return 0;
 }
+```
 # OUTPUT
 <img width="935" height="520" alt="image" src="https://github.com/user-attachments/assets/61a83d53-7b74-4f6e-ad09-4b7ced723909" />
 
